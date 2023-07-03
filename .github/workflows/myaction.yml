@@ -45,4 +45,3 @@ jobs:
       run: .\ngrok\ngrok.exe tcp 3389
 
 RDP B.txt
-Affichage de RDP B.txt
